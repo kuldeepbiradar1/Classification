@@ -1,2 +1,2 @@
 # Classification
-Basic Classification tensorflow-keras Model
+Basic Classification using tensorflow-keras model in python
